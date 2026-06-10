@@ -1,8 +1,8 @@
-AUTONOMOUS_ASSURANCE.md
+# AUTONOMOUS_ASSURANCE.md
 
-Version: 2.1
-Status: Constitutional Foundation
-Repository: agility-game/governance/foundations
+Version: 2.1  
+Status: Constitutional Foundation  
+Repository: agility-game/governance/foundations  
 
 ⸻
 
@@ -47,15 +47,15 @@ It enables governance to scale alongside:
 * rapidly evolving architectures
 
 Without Autonomous Assurance:
-
+```
 Creation
       ↓
 Review Queue
       ↓
 Delayed Trust
-
+‘``
 With Autonomous Assurance:
-
+```
 Creation
       ↓
 Verification
@@ -63,7 +63,7 @@ Verification
 Assurance
       ↓
 Trust
-
+```
 continuously.
 
 ⸻
@@ -372,7 +372,7 @@ Awareness alone is insufficient.
 Autonomous Assurance Loop
 
 The Autonomous Assurance Loop is:
-
+```
 Observe
       ↓
 Verify
@@ -386,7 +386,7 @@ Assure
 Remediate
       ↓
 Observe
-
+```
 This loop never stops.
 
 ⸻
@@ -394,7 +394,7 @@ This loop never stops.
 Assurance State Machine
 
 Trust evolves through states.
-
+```
 Unknown
       ↓
 Observed
@@ -406,7 +406,7 @@ Controlled
 Assured
       ↓
 Autonomous
-
+```
 ⸻
 
 Unknown
@@ -597,11 +597,11 @@ Assurance creates value through:
 Assurance Return
 
 Conceptually:
-
+```
 Trust Generated
 ----------------
 Assurance Cost
-
+```
 ⸻
 
 Strategic Objective
@@ -807,13 +807,3 @@ Trust Through Evidence.
 Scale Through Assurance.
 
 ⸻
-
-End of AUTONOMOUS_ASSURANCE.md
-
-✅ This completes the fourth file of the Foundations v2.1 Assembly.
-
-Next would be the final GitHub-ready version of:
-
-DETERMINISTIC_VALIDATION.md
-
-which serves as the truth-generation architecture underpinning validators, promotion gates, assurance engines, governance agents, and future autonomous governance systems.
