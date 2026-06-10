@@ -362,13 +362,13 @@ Improvement Path
 Maturity Assessment Matrix
 
 Example:
-
+```
 Standards           Level 3
 Validation          Level 4
 Evidence            Level 4
 Assurance           Level 3
 Promotion           Level 2
-
+```
 ⸻
 
 Governance Rule
@@ -616,13 +616,13 @@ Governance Debt
 ⸻
 
 Relationship
-
+```
 Higher Maturity
        ↓
 Higher Trust
        ↓
 Higher Governance Capital
-
+```
 ⸻
 
 Future Evolution
