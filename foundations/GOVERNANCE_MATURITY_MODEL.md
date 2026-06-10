@@ -1,8 +1,8 @@
 # GOVERNANCE_MATURITY_MODEL.md
 
-Version: 2.1
-Status: Constitutional Foundation
-Repository: agility-game/governance/foundations
+Version: 2.1  
+Status: Constitutional Foundation  
+Repository: agility-game/governance/foundations  
 
 ⸻
 
