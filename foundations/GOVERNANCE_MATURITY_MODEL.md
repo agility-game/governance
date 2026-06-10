@@ -85,14 +85,14 @@ Better Governance
 Maturity Architecture
 
 The model contains six maturity levels.
-
+```
 Level 0  Ad Hoc
 Level 1  Documented
 Level 2  Verified
 Level 3  Automated
 Level 4  Assured
 Level 5  Autonomous Assurance
-
+```
 Each level builds upon the previous level.
 
 ⸻
