@@ -1,8 +1,8 @@
 # GOVERNANCE_ECONOMICS.md
 
-Version: 2.1
-Status: Constitutional Foundation
-Repository: agility-game/governance/foundations
+Version: 2.1  
+Status: Constitutional Foundation  
+Repository: agility-game/governance/foundations  
 
 ⸻
 
