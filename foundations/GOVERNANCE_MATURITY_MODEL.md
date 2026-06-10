@@ -1,4 +1,4 @@
-GOVERNANCE_MATURITY_MODEL.md
+# GOVERNANCE_MATURITY_MODEL.md
 
 Version: 2.1
 Status: Constitutional Foundation
